@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,IACE,oDAAA,CACA,qBAAsB,CACtB,YAAa,CACb,iBACF","file":"main.f6eb2a5d.chunk.css","sourcesContent":[".bg {\r\n  background-image: url('../src/images/bg5.jpg');\r\n  background-size: cover;\r\n  height: 100vh;\r\n  text-align: center;\r\n}\r\n"]}
