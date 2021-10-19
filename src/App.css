@@ -1,0 +1,6 @@
+.bg {
+  background-image: url('../src/images/bg5.jpg');
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+}
